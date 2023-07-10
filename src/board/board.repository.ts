@@ -1,4 +1,4 @@
-import { Board } from "./board";
+import { Board } from "./entity/board";
 import { DataSource } from "typeorm";
 
 export const boardRepository =[
